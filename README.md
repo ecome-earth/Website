@@ -4,8 +4,7 @@ mylife.plus domain
 [Wireframes](https://www.figma.com/file/QmAAVUzlP4KPx4uFGqxLdt/Website)
 
 the websites gives you an overview about mylife+
-- mylife+ apps
-- FAQs
-- links (discord, github) 
-- Vision & Roadmap
-- Concept how mylife+ works
+- mylife+ apps (click on START)
+- FAQs (like Vision / Roadmap / Concept how mylife+ works etc.)
+- Chat and meet with community members in discord
+- Earn bounties via githu
