@@ -5,6 +5,6 @@ mylife.plus domain
 
 the websites gives you an overview about mylife+
 - mylife+ apps (click on START)
-- FAQs (like Vision / Roadmap / Concept how mylife+ works etc.)
+- FAQs (Project Mindmap / Vision / Roadmap / Concept how mylife+ works etc.)
 - Chat and meet with community members in discord
-- Earn bounties via githu
+- Earn bounties via github
